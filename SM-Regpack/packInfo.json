@@ -1,0 +1,12 @@
+{
+   "regionPackName": "SteelMill", 
+   "description": "Steel Mill region for my region% challenge.", 
+   "author": "Henpemaz", 
+   "activated": true, 
+   "loadOrder": 100, 
+   "regions": "SM", 
+   "thumbURL": "", 
+   "version": "1.0", 
+   "requirements": "", 
+   "checksum": "ba832c60a4aedac5ecb2a2ae3c145e7d" 
+}

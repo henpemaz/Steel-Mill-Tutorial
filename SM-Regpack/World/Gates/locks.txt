@@ -1,0 +1,2 @@
+GATE_SU_SM : 2 : 3
+GATE_SM_GW : 2 : 2
